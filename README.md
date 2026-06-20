@@ -1,4 +1,4 @@
-# Plant Disease Detection System
+# **Plant Disease Detection System**
 
 A Deep Learning based Plant Disease Detection System using CNN, FastAPI, Streamlit, and Docker.
 
